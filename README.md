@@ -19,8 +19,6 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 </p>
 
 ---
-<br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ## 🚀 En qué estoy trabajando
@@ -30,10 +28,15 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 - 🔌 Explorando proyectos con **Arduino + Web**
 - 💻 Desarrollando proyectos personales
 
+<br>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jorgec16&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
 </p>
-
 ---
 
 ## 🤝 Conecta conmigo
