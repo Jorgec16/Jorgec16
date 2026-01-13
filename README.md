@@ -24,14 +24,23 @@
 
 Soy un apasionado por el **desarrollo web frontend**, actualmente en constante aprendizaje, enfocado en mejorar mis habilidades técnicas y en la creación de proyectos prácticos. He trabajado con **HTML, CSS, JavaScript, Python y Arduino**, y me motiva seguir creciendo como desarrollador y enfrentar nuevos retos tecnológicos.
 
----
+
+<!-- RAINBOW LINE BOT -->
+<img 
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+/>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,git,github,vscode&theme=dark" />
 </p>
 
----
+<!-- RAINBOW LINE BOT -->
+<img 
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+/>
 ## 🚀 En qué estoy trabajando
 
 - 🌱 Fortaleciendo mis conocimientos en **Frontend**
@@ -48,8 +57,11 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
   />
 </p>
 
-
----
+<!-- RAINBOW LINE BOT -->
+<img 
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+/>
 <h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
@@ -58,7 +70,11 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
   </a>
 </p>
 
----
+<!-- RAINBOW LINE BOT -->
+<img 
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Aprendiendo+Frontend;Creando+proyectos;Nunca+dejar+de+aprender" />
 </p>
