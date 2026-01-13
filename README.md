@@ -21,11 +21,11 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 ---
 ## 🚀 En qué estoy trabajando
 
+<!-- Imagen (desktop: derecha / móvil: abajo) -->
 <img 
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
   width="260"
-  style="margin-top:-30px;"
 />
 
 - 🌱 Fortaleciendo mis conocimientos en **Frontend**
@@ -36,7 +36,10 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 <br clear="right">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jorgec16&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
+  <img 
+    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+    width="220"
+  />
 </p>
 
 
