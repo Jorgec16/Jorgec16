@@ -21,24 +21,17 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 ---
 ## 🚀 En qué estoy trabajando
 
-<!-- Imagen (desktop: derecha / móvil: abajo) -->
-<img 
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-  align="right"
-  width="260"
-/>
-
 - 🌱 Fortaleciendo mis conocimientos en **Frontend**
 - 🧩 Mejorando mi lógica con **JavaScript**
 - 🔌 Explorando proyectos con **Arduino + Web**
 - 💻 Desarrollando proyectos personales
 
-<br clear="right">
+<br>
 
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-    width="220"
+    width="280"
   />
 </p>
 
