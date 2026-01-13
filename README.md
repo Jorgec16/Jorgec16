@@ -46,5 +46,4 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Aprendiendo+Frontend;Creando+proyectos;Nunca+dejar+de+aprender" />
 </p>
 
-⭐ **Nunca dejes de aprender, el código es un camino, no un destino.**
 ⭐ *El aprendizaje nunca se detiene; cada línea de código cuenta.*
