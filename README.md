@@ -25,7 +25,7 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
   width="260"
-  style="margin-top:-20px;"
+  style="margin-top:-30px;"
 />
 
 - 🌱 Fortaleciendo mis conocimientos en **Frontend**
