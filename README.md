@@ -1,27 +1,8 @@
-<!-- BANNER CON LINEA ESTATICA Y TEXTO -->
-<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
-  <!-- FONDO -->
-  <image 
-    href="https://raw.githubusercontent.com/Jorgec16/Jorgec16/main/assets/line-neon.png"
-    width="1200"
-    height="90"
-    preserveAspectRatio="xMidYMid slice"
-  />
-
-
-  <text
-    x="50%"
-    y="50%"
-    dominant-baseline="middle"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-size="38"
-    font-weight="700"
-    font-family="Arial, Helvetica, sans-serif"
-  >
-    Jorge Campuzano
-  </text>
-</svg>
+<!-- BANNER PRINCIPAL -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=Jorge%20Campuzano&fontSize=40&fontColor=ffffff"
+  width="100%"
+/>
 
 <!-- RAINBOW LINE BOT -->
 <img 
@@ -32,7 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Desarrollador+Frontend;Aprendiz+constante;Creando+con+HTML,+CSS+y+JavaScript;El+aprendizaje+nunca+se+detiene" />
 </p>
 
----
+
+<!-- RAINBOW LINE BOT -->
+<img 
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+/>
 
 ## 👨‍💻 Sobre mí
 
