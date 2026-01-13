@@ -21,9 +21,10 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 ---
 ## 🚀 En qué estoy trabajando
 
-<table border="0" cellpadding="10" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <!-- COLUMNA IZQUIERDA -->
+    <td width="65%" valign="top" style="padding-right:40px;">
 
 - 🌱 Fortaleciendo mis conocimientos en **Frontend**
 - 🧩 Mejorando mi lógica con **JavaScript**
@@ -38,21 +39,17 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 
     </td>
 
-    <td width="35%" align="center">
-
-<br>
+    <!-- COLUMNA DERECHA -->
+    <td width="35%" align="center" style="padding-left:40px;">
 
 <img 
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
   width="280"
 />
 
-<br><br>
-
     </td>
   </tr>
 </table>
-
 
 
 ---
