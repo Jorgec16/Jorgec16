@@ -1,61 +1,66 @@
-<h1 align="center">🚀 Jorge Campuzano 🚀</h1>
-<h3 align="center">Frontend Developer en aprendizaje constante 💻</h3>
+![Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Saludo" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2>¡Hola! Soy Jorge Campuzano 👋</h2>
+
+---
+
+### 👨‍💻 &nbsp;Sobre mí
+
+💡 &nbsp;Apasionado por el **desarrollo web**, con enfoque en **Frontend**.  
+🌱 &nbsp;Actualmente en **aprendizaje constante**, mejorando mis habilidades día a día.  
+🧠 &nbsp;Me gusta crear interfaces, experimentar con código y aprender nuevas tecnologías.  
+🔧 &nbsp;He trabajado con **HTML, CSS, JavaScript, Python y Arduino**.  
+🚀 &nbsp;Mi objetivo es seguir creciendo como desarrollador y crear proyectos reales.
+
+<img alt="Programando de noche" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+---
+
+### 🛠 &nbsp;Tecnologías y Herramientas
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+### 📊 &nbsp;Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jorgec16&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorgec16&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgec16&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgec16&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
-✨ Apasionado por el **desarrollo web frontend**  
-🌱 Aprendiendo todos los días nuevas tecnologías  
-⚡ Me gusta crear interfaces, experimentar y mejorar mis habilidades  
+### 🎯 &nbsp;Objetivos actuales
+
+- Fortalecer mis conocimientos en **Frontend**
+- Aprender frameworks modernos de JavaScript
+- Desarrollar proyectos reales
+- Integrar **Arduino + Web**
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,git,github&theme=dark" />
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
+### 🤝 &nbsp;Conecta conmigo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgec16&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgec16&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgec16&layout=compact&theme=tokyonight" />
+<a href="https://github.com/Jorgec16">
+  <img src="https://img.shields.io/badge/-Jorgec16-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🎯 Objetivos actuales
-- 🔹 Fortalecer mis bases en **JavaScript**
-- 🔹 Aprender frameworks frontend
-- 🔹 Crear proyectos reales
-- 🔹 Integrar **Arduino + Web**
+⭐ *El aprendizaje nunca se detiene; cada línea de código cuenta.*
 
----
-
-## 🌍 Conecta conmigo
-<p align="center">
-  <a href="https://github.com/Jorgec16">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Aprendiendo+Frontend;Creando+proyectos;Nunca+dejar+de+aprender" />
-</p>
-
-⭐ **Nunca dejes de aprender, el código es un camino, no un destino.**
