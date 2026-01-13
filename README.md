@@ -21,24 +21,23 @@ Soy un apasionado por el **desarrollo web frontend**, actualmente en constante a
 ---
 ## 🚀 En qué estoy trabajando
 
-<p align="left">
-- 🌱 Fortaleciendo mis conocimientos en <b>Frontend</b><br>
-- 🧩 Mejorando mi lógica con <b>JavaScript</b><br>
-- 🔌 Explorando proyectos con <b>Arduino + Web</b><br>
-- 💻 Desarrollando proyectos personales
-</p>
-
 <img 
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
-  width="280"
+  width="260"
+  style="margin-top:-20px;"
 />
 
-<br><br><br>
+- 🌱 Fortaleciendo mis conocimientos en **Frontend**
+- 🧩 Mejorando mi lógica con **JavaScript**
+- 🔌 Explorando proyectos con **Arduino + Web**
+- 💻 Desarrollando proyectos personales
+
+<br clear="right">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jorgec16&label=Visitas%20al%20
-
+  <img src="https://komarev.com/ghpvc/?username=Jorgec16&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
+</p>
 
 
 ---
