@@ -8,7 +8,7 @@
     preserveAspectRatio="xMidYMid slice"
   />
 
-  <!-- TEXTO -->
+
   <text
     x="50%"
     y="50%"
