@@ -9,12 +9,6 @@
   src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
   width="100%"
 />
-
-
-
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=Jorge%20Campuzano&fontSize=40&fontColor=ffffff)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Desarrollador+Frontend;Aprendiz+constante;Creando+con+HTML,+CSS+y+JavaScript;El+aprendizaje+nunca+se+detiene" />
 </p>
